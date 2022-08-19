@@ -64,7 +64,7 @@ def scrape_tweets(search_term, max_tweets):
     return user_tweets
 
 
-image = Image.open('invoke_logo.jpg')
+image = Image.open('Nesa Ismail.jpg')
 
 st.sidebar.title('Social Media Scraper')
 st.sidebar.image(image)
